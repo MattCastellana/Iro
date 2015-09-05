@@ -22,7 +22,7 @@ module Iro
   end
 
   def text_color
-  	return GREY
+  	return WHITE
   end
 
   def border_color
